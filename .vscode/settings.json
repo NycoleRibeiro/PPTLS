@@ -1,0 +1,17 @@
+{
+    "python.linting.pycodestyleEnabled": true,
+    "python.formatting.provider": "autopep8",
+    "cSpell.enabled": true,
+    "cSpell.words": [
+        "Blup",
+        "PPTLS",
+        "Pontuacao",
+        "Segoe",
+        "animjokenpo",
+        "derr",
+        "esco",
+        "opcoes",
+        "plac",
+        "usuario"
+    ]
+}

@@ -1,0 +1,56 @@
+>>PontoAzul
+   largura: 87px
+   altura: 89px
+
+>>LADO PC:
+pedra:
+   top: 154px
+   left: 470px
+papel:
+   top: 220px
+   left: 555px
+tesoura:
+   top: 322px
+   left: 525px
+lagarto:
+   top: 322px
+   left: 417px
+spock:
+   top: 220px
+   left: 385px
+
+
+>>LADO JOGADOR:
+pedra:
+   top: 154px
+   left: 140px
+papel:
+   top: 220px
+   left: 225px
+tesoura:
+   top: 322px
+   left: 195px
+lagarto:
+   top: 322px
+   left: 88px
+spock:
+   top: 220px
+   left: 55px
+
+
+texto("Empate!", cores["branco"], 50, 250, 380)
+
+texto("Pedra quebra tesoura", cores["branco"], 50, 120, 380)
+texto("Pedra derruba lagarto", cores["branco"], 50, 120, 380)
+
+texto("Papel cobre pedra", cores["branco"], 50, 155, 380)
+texto("Papel refuta Spock", cores["branco"], 50, 120, 380)
+
+texto("Tesoura corta papel", cores["branco"], 50, 125, 380)
+texto("Tesoura prende lagarto", cores["branco"], 50, 125, 380)
+
+texto("Lagarto come papel", cores["branco"], 50, 150, 380)
+texto("Lagarto adormece Spock", cores["branco"], 50, 120, 380)
+
+texto("Spock vaporiza pedra", cores["branco"], 50, 120, 380)
+texto("Spock derrete tesoura", cores["branco"], 50, 120, 380)

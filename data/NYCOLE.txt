@@ -1,0 +1,1 @@
+Player: NYCOLE => Vitorias: 2 => Derrotas: 1 => Empates: 0 => Escolhas: , pedra, lagarto, spock, tesoura
