@@ -1,7 +1,4 @@
 # PPTLS
- 
-Jogo Player VS PC
+## Player VS PC
 
-Jogo de pedra, papel, tesoura, lagarto e spock.
-
-Animações da série The Big Bang Theory
+PPTLS é um jogo de "Pedra, Papel, Tesoura, Lagarto e Spock" inspirado e com animações da série The Big Bang Theory.
